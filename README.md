@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dushyantbahuguna
-- 👀 I’m interested in relevant projects.
-- 🌱 I’m currently learning data analytics.
+- 👀 I’m interested in Data analysis and AI projects.
+- 🌱 I’m currently learning Artificial analysis deisign and implementation and recently completed data analytics course.
 - 📫 You can reach me through mail dushyantfl2@gmail.com
 - 😄 Pronouns: He/him
